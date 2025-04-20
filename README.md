@@ -1,17 +1,35 @@
-# VDA5050
+# VDA5050 繁體中文翻譯
 
-An open standard for communication between AGV fleets and a central master control. Developed jointly by the German Association of the Automotive Industry (www.vda.de) and the Mechanical Engineering Industry Association (www.vdma.org), as well as the Institute for Material Flow and Logistics (IFL) at KIT (www.ifl.kit.edu) and many contributors from the AMR industry.
+本專案提供 [VDA5050 協定文件](https://github.com/VDA5050/VDA5050) (版本 2.1.0) 的繁體中文（zh-TW）非官方翻譯，旨在協助中文使用者更方便地理解與應用 VDA5050 標準內容。此翻譯目前由個人維護，歡迎共同參與改進。
 
-**DISCLAIMER**: We are constantly working to improve the VDA 5050. If there are any differences between the markdown document/JSON schemas on GitHub and the published document by the VDA, the PDF on the VDA website is valid. The current version of the official VDA 5050 document can be found here ([German](https://www.vda.de/de/suche#"5050")/[English](https://www.vda.de/en/search#"5050")).
+# 免責聲明
 
-# How to contribute
-If you work for a VDA / VDMA member, ask your contact person if you can join the working group.
-Everyone is free to raise issues or suggest new improvements to the protocol.
+## 文件翻譯聲明
 
-Anyone is free to raise issues or suggest new improvements to the protocol using the Github issues. Github issues will be marked by the VDA/VDMA team as **VD(M)A in progress** if the issue is discussed in the monthly VDA 5050 meetings. If the issue has been accepted by the team, it will receive a milestone tag indicating when the change will be added to the document, according to
+本文件翻譯基於對原始英文文檔的理解，由個人獨立完成，並非由 VDA5050 協定的原始開發組織官方授權、審核或認可。
 
-- V2.1.1: Minor changes such as typos and fixes,
-- V2.2.0: Non-breaking, backward-compatible changes,
-- V3.0.0: Breaking changes, which would mean reworking structures or variable names.
+## 準確性與使用風險
 
-When creating pull requests, please create them against the *development* branch. The *main* branch contains the latest published version of VDA 5050 (currently version 2.1.0).
+本翻譯文件僅作為參考資料提供，翻譯者已竭力確保翻譯的準確性和品質，但無法擔保譯文完全精確無誤。使用者應了解：
+
+1. 本翻譯內容可能存在與原文的表達差異或理解偏差
+2. 技術術語的翻譯可能無法完全傳達原文的精確含義
+3. 本翻譯版本可能未能即時同步原文的最新變更
+
+**重要提示**：在任何情況下，原始英文/德文文件應被視為唯一具有權威性的參考來源。如遇內容差異或解釋歧義，應以英文/德文原文為準。
+
+## 法律責任聲明
+
+使用本翻譯文件時，使用者需自行承擔風險。翻譯者和維護者不對因使用本翻譯內容而可能導致的任何損失、損害或問題承擔法律責任，包括但不限於：
+
+- 因翻譯錯誤導致的技術實施問題
+- 因理解偏差導致的系統相容性問題
+- 因翻譯內容時效性問題導致的標準不合規情況
+
+## 著作權與授權
+
+本翻譯遵循原始 VDA5050 文件的著作權條款。翻譯版本的著作權歸屬於譯者，但不影響原始文件的著作權歸屬。使用者在使用、複製或分發本翻譯時，應同時遵守原始文件的授權條款以及本翻譯的授權條款。
+
+## 改進與貢獻
+
+個人鼓勵參與改進本翻譯。如發現任何翻譯錯誤、不準確之處或有其他改進建議，歡迎通過 GitHub issue 或 pull request 提交反饋。您的貢獻將有助於提高翻譯品質，造福更多中文使用者。
