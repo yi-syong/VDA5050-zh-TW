@@ -1,4 +1,6 @@
-# VDA5050 繁體中文翻譯
+# VDA5050 zh-TW Translation
+
+**Traditional Chinese translation of VDA 5050 standard (v2.1.0), used for AGV/AMR fleet communication.**
 
 本專案提供 [VDA5050 協定文件](https://github.com/VDA5050/VDA5050) (版本 2.1.0) 的繁體中文（zh-TW）非官方翻譯，旨在協助中文使用者更方便地理解與應用 VDA5050 標準內容。此翻譯目前由個人維護，歡迎共同參與改進。
 
